@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="425.178285pt" height="288.54pt" viewBox="0 0 425.178285 288.54" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-16T10:38:31.934712</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 288.54 L 425.178285 288.54 L 425.178285 0 L 0 0 z" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 80.071842 51.696244 L 174.27142 51.696244 C 174.2864 51.6962 174.2939 51.1569 174.2939 50.0782 L 174.293949 39.830579 C 174.2939 38.7519 174.2864 38.2125 174.2714 38.2125 L 80.071842 38.212534 C 80.0568 38.2125 80.0493 38.7519 80.0493 39.8306 L 80.049313 50.078199 C 80.0493 51.1569 80.0568 51.6962 80.0718 51.6962 z" clip-path="url(#pf43dfa522f)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 174.316477 51.696244 L 339.48114 51.696244 C 339.4962 51.6962 339.5037 51.1569 339.5037 50.0782 L 339.503669 39.830579 C 339.5037 38.7519 339.4962 38.2125 339.4811 38.2125 L 174.316477 38.212534 C 174.3015 38.2125 174.2939 38.7519 174.2939 39.8306 L 174.293949 50.078199 C 174.2939 51.1569 174.3015 51.6962 174.3165 51.6962 z" clip-path="url(#pf43dfa522f)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 339.526197 51.696244 L 376.653327 51.696244 C 376.6683 51.6962 376.6759 51.1569 376.6759 50.0782 L 376.675855 39.830579 C 376.6759 38.7519 376.6683 38.2125 376.6533 38.2125 L 339.526197 38.212534 C 339.5112 38.2125 339.5037 38.7519 339.5037 39.8306 L 339.503669 50.078199 C 339.5037 51.1569 339.5112 51.6962 339.5262 51.6962 z" clip-path="url(#pf43dfa522f)" style="fill: #1baf7a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="256.898809" y="47.105776" transform="rotate(-0 256.898809 47.105776)">intein 252–691 (440 aa)</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(53.911797 42.19206)">RecA</text>
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(11.426016 52.253339)">P9WHJ3, 790 aa</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #52514e" x="174.293949" y="32.81905" transform="rotate(-0 174.293949 32.81905)">C252</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #52514e" x="339.503669" y="32.81905" transform="rotate(-0 339.503669 32.81905)">N691</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: end; fill: #52514e" x="376.675855" y="32.81905" transform="rotate(-0 376.675855 32.81905)">790</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: start; fill: #52514e" x="80.049313" y="32.81905" transform="rotate(-0 80.049313 32.81905)">1</text>
+   </g>
+   <g id="text_7">
+    <text style="font-style: italic; font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #52514e" x="228.362584" y="65.179955" transform="rotate(-0 228.362584 65.179955)">junction after splicing: K251 | C692;  type 3: CSPPFK (boundary-start); type 2 needs a missed cleavage</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_5">
+    <path d="M 80.071842 135.834597 L 174.646897 135.834597 C 174.6619 135.8346 174.6694 135.2952 174.6694 134.2166 L 174.669426 123.968932 C 174.6694 122.8902 174.6619 122.3509 174.6469 122.3509 L 80.071842 122.350887 C 80.0568 122.3509 80.0493 122.8902 80.0493 123.9689 L 80.049313 134.216552 C 80.0493 135.2952 80.0568 135.8346 80.0718 135.8346 z" clip-path="url(#pc89b16ea30)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 174.691954 135.834597 L 309.443009 135.834597 C 309.4580 135.8346 309.4655 135.2952 309.4655 134.2166 L 309.465538 123.968932 C 309.4655 122.8902 309.4580 122.3509 309.4430 122.3509 L 174.691954 122.350887 C 174.6769 122.3509 174.6694 122.8902 174.6694 123.9689 L 174.669426 134.216552 C 174.6694 135.2952 174.6769 135.8346 174.6920 135.8346 z" clip-path="url(#pc89b16ea30)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 309.488066 135.834597 L 397.680018 135.834597 C 397.6950 135.8346 397.7025 135.2952 397.7025 134.2166 L 397.702547 123.968932 C 397.7025 122.8902 397.6950 122.3509 397.6800 122.3509 L 309.488066 122.350887 C 309.4730 122.3509 309.4655 122.8902 309.4655 123.9689 L 309.465538 134.216552 C 309.4655 135.2952 309.4730 135.8346 309.4881 135.8346 z" clip-path="url(#pc89b16ea30)" style="fill: #1baf7a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="242.067482" y="131.244129" transform="rotate(-0 242.067482 131.244129)">intein 253–611 (359 aa)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(56.010703 126.381253)">SufB</text>
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(11.418594 136.442532)">P9WFP7, 846 aa</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #52514e" x="174.669426" y="116.957403" transform="rotate(-0 174.669426 116.957403)">C253</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #52514e" x="309.465538" y="116.957403" transform="rotate(-0 309.465538 116.957403)">N611</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: end; fill: #52514e" x="397.702547" y="116.957403" transform="rotate(-0 397.702547 116.957403)">846</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: start; fill: #52514e" x="80.049313" y="116.957403" transform="rotate(-0 80.049313 116.957403)">1</text>
+   </g>
+   <g id="text_14">
+    <text style="font-style: italic; font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #52514e" x="238.87593" y="149.318308" transform="rotate(-0 238.87593 149.318308)">junction after splicing: G252 | C612;  type 2: TLIIADEGSYVHYVEG|CTAPIYK (fully tryptic)</text>
+   </g>
+  </g>
+  <g id="axes_3">
+   <g id="patch_8">
+    <path d="M 80.071842 219.97295 L 229.841962 219.97295 C 229.8570 219.9729 229.8645 219.4336 229.8645 218.3549 L 229.864491 208.107285 C 229.8645 207.0286 229.8570 206.4892 229.8420 206.4892 L 80.071842 206.48924 C 80.0568 206.4892 80.0493 207.0286 80.0493 208.1073 L 80.049313 218.354905 C 80.0493 219.4336 80.0568 219.9729 80.0718 219.9729 z" clip-path="url(#pd341d11905)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 229.88702 219.97295 L 386.040243 219.97295 C 386.0553 219.9729 386.0628 219.4336 386.0628 218.3549 L 386.062771 208.107285 C 386.0628 207.0286 386.0553 206.4892 386.0402 206.4892 L 229.88702 206.48924 C 229.8720 206.4892 229.8645 207.0286 229.8645 208.1073 L 229.864491 218.354905 C 229.8645 219.4336 229.8720 219.9729 229.8870 219.9729 z" clip-path="url(#pd341d11905)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 386.0853 219.97295 L 408.193364 219.97295 C 408.2084 219.9729 408.2159 219.4336 408.2159 218.3549 L 408.215893 208.107285 C 408.2159 207.0286 408.2084 206.4892 408.1934 206.4892 L 386.0853 206.48924 C 386.0703 206.4892 386.0628 207.0286 386.0628 208.1073 L 386.062771 218.354905 C 386.0628 219.4336 386.0703 219.9729 386.0853 219.9729 z" clip-path="url(#pd341d11905)" style="fill: #1baf7a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="307.963631" y="215.382482" transform="rotate(-0 307.963631 215.382482)">intein 400–815 (416 aa)</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(53.378906 210.468766)">DnaB</text>
+    <text style="font-size: 9.5px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(7.2 220.530045)">P9WMR3, 874 aa</text>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #52514e" x="229.864491" y="201.095756" transform="rotate(-0 229.864491 201.095756)">C400</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #52514e" x="386.062771" y="201.095756" transform="rotate(-0 386.062771 201.095756)">N815</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: end; fill: #52514e" x="408.215893" y="201.095756" transform="rotate(-0 408.215893 201.095756)">874</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: start; fill: #52514e" x="80.049313" y="201.095756" transform="rotate(-0 80.049313 201.095756)">1</text>
+   </g>
+   <g id="text_21">
+    <text style="font-style: italic; font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #52514e" x="244.132603" y="233.456661" transform="rotate(-0 244.132603 233.456661)">junction after splicing: G399 | S816;  type 2: ESG|SLEQDADVVILLHRPDAFDR (fully tryptic)</text>
+   </g>
+  </g>
+  <g id="legend_1">
+   <g id="patch_11">
+    <path d="M 139.251098 275.797617 L 157.251098 275.797617 L 157.251098 269.497617 L 139.251098 269.497617 z" style="fill: #2a78d6"/>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: start" x="164.451098" y="275.797617" transform="rotate(-0 164.451098 275.797617)">N-extein</text>
+   </g>
+   <g id="patch_12">
+    <path d="M 213.938442 275.797617 L 231.938442 275.797617 L 231.938442 269.497617 L 213.938442 269.497617 z" style="fill: #eb6834"/>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: start" x="239.138442" y="275.797617" transform="rotate(-0 239.138442 275.797617)">intein</text>
+   </g>
+   <g id="patch_13">
+    <path d="M 277.634535 275.797617 L 295.634535 275.797617 L 295.634535 269.497617 L 277.634535 269.497617 z" style="fill: #1baf7a"/>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: start" x="302.834535" y="275.797617" transform="rotate(-0 302.834535 275.797617)">C-extein</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pf43dfa522f">
+   <rect x="16.218285" y="7.2" width="401.76" height="70.115294"/>
+  </clipPath>
+  <clipPath id="pc89b16ea30">
+   <rect x="16.218285" y="91.338353" width="401.76" height="70.115294"/>
+  </clipPath>
+  <clipPath id="pd341d11905">
+   <rect x="16.218285" y="175.476706" width="401.76" height="70.115294"/>
+  </clipPath>
+ </defs>
+</svg>

@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="416.16pt" height="358.128pt" viewBox="0 0 416.16 358.128" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-16T10:38:31.582621</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 358.128 L 416.16 358.128 L 416.16 0 L 0 0 z" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 17.64576 55.840755 L 109.24704 55.840755 C 110.8541 55.8408 111.6576 55.1922 111.6576 53.8951 L 111.6576 38.330083 C 111.6576 37.0330 110.8541 36.3845 109.2470 36.3845 L 17.64576 36.384453 C 16.0387 36.3845 15.2352 37.0330 15.2352 38.3301 L 15.2352 53.895125 C 15.2352 55.1922 16.0387 55.8408 17.6458 55.8408 z" clip-path="url(#p64090c6c1f)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 114.06816 55.840755 L 294.05664 55.840755 C 295.6637 55.8408 296.4672 55.1922 296.4672 53.8951 L 296.4672 38.330083 C 296.4672 37.0330 295.6637 36.3845 294.0566 36.3845 L 114.06816 36.384453 C 112.4611 36.3845 111.6576 37.0330 111.6576 38.3301 L 111.6576 53.895125 C 111.6576 55.1922 112.4611 55.8408 114.0682 55.8408 z" clip-path="url(#p64090c6c1f)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 298.87776 55.840755 L 390.47904 55.840755 C 392.0861 55.8408 392.8896 55.1922 392.8896 53.8951 L 392.8896 38.330083 C 392.8896 37.0330 392.0861 36.3845 390.4790 36.3845 L 298.87776 36.384453 C 297.2707 36.3845 296.4672 37.0330 296.4672 38.3301 L 296.4672 53.895125 C 296.4672 55.1922 297.2707 55.8408 298.8778 55.8408 z" clip-path="url(#p64090c6c1f)" style="fill: #1baf7a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 17.64576 123.937811 L 109.24704 123.937811 C 110.8541 123.9378 111.6576 123.2893 111.6576 121.9922 L 111.6576 106.42714 C 111.6576 105.1301 110.8541 104.4815 109.2470 104.4815 L 17.64576 104.481509 C 16.0387 104.4815 15.2352 105.1301 15.2352 106.4271 L 15.2352 121.992181 C 15.2352 123.2893 16.0387 123.9378 17.6458 123.9378 z" clip-path="url(#p64090c6c1f)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 124.11216 123.937811 L 294.05664 123.937811 C 295.6637 123.9378 296.4672 123.2893 296.4672 121.9922 L 296.4672 106.42714 C 296.4672 105.1301 295.6637 104.4815 294.0566 104.4815 L 124.11216 104.481509 C 122.5051 104.4815 121.7016 105.1301 121.7016 106.4271 L 121.7016 121.992181 C 121.7016 123.2893 122.5051 123.9378 124.1122 123.9378 z" clip-path="url(#p64090c6c1f)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 298.87776 123.937811 L 390.47904 123.937811 C 392.0861 123.9378 392.8896 123.2893 392.8896 121.9922 L 392.8896 106.42714 C 392.8896 105.1301 392.0861 104.4815 390.4790 104.4815 L 298.87776 104.481509 C 297.2707 104.4815 296.4672 105.1301 296.4672 106.4271 L 296.4672 121.992181 C 296.4672 123.2893 297.2707 123.9378 298.8778 123.9378 z" clip-path="url(#p64090c6c1f)" style="fill: #1baf7a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 114.06816 192.034868 L 294.05664 192.034868 C 295.6637 192.0349 296.4672 191.3863 296.4672 190.0892 L 296.4672 174.524196 C 296.4672 173.2271 295.6637 172.5786 294.0566 172.5786 L 114.06816 172.578566 C 112.4611 172.5786 111.6576 173.2271 111.6576 174.5242 L 111.6576 190.089238 C 111.6576 191.3863 112.4611 192.0349 114.0682 192.0349 z" clip-path="url(#p64090c6c1f)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 298.87776 192.034868 L 390.47904 192.034868 C 392.0861 192.0349 392.8896 191.3863 392.8896 190.0892 L 392.8896 174.524196 C 392.8896 173.2271 392.0861 172.5786 390.4790 172.5786 L 298.87776 172.578566 C 297.2707 172.5786 296.4672 173.2271 296.4672 174.5242 L 296.4672 190.089238 C 296.4672 191.3863 297.2707 192.0349 298.8778 192.0349 z" clip-path="url(#p64090c6c1f)" style="fill: #1baf7a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 206.47296 170.957208 L 298.07424 170.957208 C 299.6813 170.9572 300.4848 170.3087 300.4848 169.0116 L 300.4848 158.310611 C 300.4848 157.0135 299.6813 156.3650 298.0742 156.3650 L 206.47296 156.364981 C 204.8659 156.3650 204.0624 157.0135 204.0624 158.3106 L 204.0624 169.011577 C 204.0624 170.3087 204.8659 170.9572 206.4730 170.9572 z" clip-path="url(#p64090c6c1f)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 17.64576 260.131925 L 157.45824 260.131925 C 159.0653 260.1319 159.8688 259.4834 159.8688 258.1863 L 159.8688 242.621253 C 159.8688 241.3242 159.0653 240.6756 157.4582 240.6756 L 17.64576 240.675623 C 16.0387 240.6756 15.2352 241.3242 15.2352 242.6213 L 15.2352 258.186294 C 15.2352 259.4834 16.0387 260.1319 17.6458 260.1319 z" clip-path="url(#p64090c6c1f)" style="fill: #eb6834; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 210.49056 260.131925 L 302.09184 260.131925 C 303.6989 260.1319 304.5024 259.4834 304.5024 258.1863 L 304.5024 242.621253 C 304.5024 241.3242 303.6989 240.6756 302.0918 240.6756 L 210.49056 240.675623 C 208.8835 240.6756 208.0800 241.3242 208.0800 242.6213 L 208.08 258.186294 C 208.0800 259.4834 208.8835 260.1319 210.4906 260.1319 z" clip-path="url(#p64090c6c1f)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 316.95696 260.131925 L 390.47904 260.131925 C 392.0861 260.1319 392.8896 259.4834 392.8896 258.1863 L 392.8896 242.621253 C 392.8896 241.3242 392.0861 240.6756 390.4790 240.6756 L 316.95696 240.675623 C 315.3499 240.6756 314.5464 241.3242 314.5464 242.6213 L 314.5464 258.186294 C 314.5464 259.4834 315.3499 260.1319 316.9570 260.1319 z" clip-path="url(#p64090c6c1f)" style="fill: #1baf7a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 210.49056 328.228981 L 298.07424 328.228981 C 299.6813 328.2290 300.4848 327.5804 300.4848 326.2834 L 300.4848 310.718309 C 300.4848 309.4212 299.6813 308.7727 298.0742 308.7727 L 210.49056 308.772679 C 208.8835 308.7727 208.0800 309.4212 208.0800 310.7183 L 208.08 326.283351 C 208.0800 327.5804 208.8835 328.2290 210.4906 328.2290 z" clip-path="url(#p64090c6c1f)" style="fill: #2a78d6; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 302.89536 328.228981 L 390.47904 328.228981 C 392.0861 328.2290 392.8896 327.5804 392.8896 326.2834 L 392.8896 310.718309 C 392.8896 309.4212 392.0861 308.7727 390.4790 308.7727 L 302.89536 308.772679 C 301.2883 308.7727 300.4848 309.4212 300.4848 310.7183 L 300.4848 326.283351 C 300.4848 327.5804 301.2883 328.2290 302.8954 328.2290 z" clip-path="url(#p64090c6c1f)" style="fill: #1baf7a; stroke: #ffffff; stroke-width: 1.5; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 344.6784 69.83938 C 344.6784 76.7212 344.6784 83.2304 344.6784 89.3669" clip-path="url(#p64090c6c1f)" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 346.6784 85.366928 L 344.6784 89.366928 L 342.6784 85.366928 z" clip-path="url(#p64090c6c1f)" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 344.6784 137.936437 C 344.6784 144.8183 344.6784 151.3275 344.6784 157.4640" clip-path="url(#p64090c6c1f)" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 346.6784 153.463985 L 344.6784 157.463985 L 342.6784 153.463985 z" clip-path="url(#p64090c6c1f)" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 344.6784 206.033493 C 344.6784 212.9154 344.6784 219.4245 344.6784 225.5610" clip-path="url(#p64090c6c1f)" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 346.6784 221.561041 L 344.6784 225.561041 L 342.6784 221.561041 z" clip-path="url(#p64090c6c1f)" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 344.6784 274.13055 C 344.6784 281.0124 344.6784 287.5216 344.6784 293.6581" clip-path="url(#p64090c6c1f)" style="fill: none; stroke: #52514e; stroke-linecap: round"/>
+    <path d="M 346.6784 289.658098 L 344.6784 293.658098 L 342.6784 289.658098 z" clip-path="url(#p64090c6c1f)" style="fill: #52514e; stroke: #52514e; stroke-linecap: round"/>
+   </g>
+   <g id="text_1">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0b0b0b" x="7.2" y="26.007758" transform="rotate(-0 7.2 26.007758)">Precursor</text>
+   </g>
+   <g id="text_2">
+    <text style="font-style: italic; font-size: 8.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #52514e" x="7.2" y="66.217449" transform="rotate(-0 7.2 66.217449)">N-extein–C(O)–NH–Cys1 (intein) … Asn–NH–Cys+1 (C-extein)</text>
+   </g>
+   <g id="text_3">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0b0b0b" x="7.2" y="94.104815" transform="rotate(-0 7.2 94.104815)">Step 1  N→S acyl shift</text>
+   </g>
+   <g id="text_4">
+    <text style="font-style: italic; font-size: 8.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #52514e" x="7.2" y="134.314506" transform="rotate(-0 7.2 134.314506)">Cys1 thiol attacks the preceding peptide bond: linear thioester</text>
+   </g>
+   <g id="text_5">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0b0b0b" x="7.2" y="162.201872" transform="rotate(-0 7.2 162.201872)">Step 2  Transesterification</text>
+   </g>
+   <g id="text_6">
+    <text style="font-style: italic; font-size: 8.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #52514e" x="7.2" y="202.411562" transform="rotate(-0 7.2 202.411562)">Cys+1 of the C-extein takes over the N-extein: branched intermediate</text>
+   </g>
+   <g id="text_7">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0b0b0b" x="7.2" y="230.298928" transform="rotate(-0 7.2 230.298928)">Step 3  Asn cyclisation</text>
+   </g>
+   <g id="text_8">
+    <text style="font-style: italic; font-size: 8.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #52514e" x="7.2" y="270.508619" transform="rotate(-0 7.2 270.508619)">terminal Asn forms a succinimide, releasing the intein</text>
+   </g>
+   <g id="text_9">
+    <text style="font-weight: 700; font-size: 10.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #0b0b0b" x="7.2" y="298.395985" transform="rotate(-0 7.2 298.395985)">Step 4  S→N acyl shift</text>
+   </g>
+   <g id="text_10">
+    <text style="font-style: italic; font-size: 8.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #52514e" x="7.2" y="338.605675" transform="rotate(-0 7.2 338.605675)">thioester rearranges to a native peptide bond: spliced protein</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="63.4464" y="48.26153" transform="rotate(-0 63.4464 48.26153)">N-extein</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="204.0624" y="48.26153" transform="rotate(-0 204.0624 48.26153)">Intein</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="344.6784" y="48.26153" transform="rotate(-0 344.6784 48.26153)">C-extein</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0b0b0b" x="117.684" y="34.438823" transform="rotate(-0 117.684 34.438823)">Cys1</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0b0b0b" x="296.4672" y="34.438823" transform="rotate(-0 296.4672 34.438823)">Asn | Cys+1</text>
+   </g>
+   <g id="text_16">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="63.4464" y="116.358586" transform="rotate(-0 63.4464 116.358586)">N-extein</text>
+   </g>
+   <g id="text_17">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0b0b0b" x="116.88048" y="116.286076" transform="rotate(-0 116.88048 116.286076)">S</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="209.0844" y="116.358586" transform="rotate(-0 209.0844 116.358586)">Intein</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="344.6784" y="116.358586" transform="rotate(-0 344.6784 116.358586)">C-extein</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="204.0624" y="184.455643" transform="rotate(-0 204.0624 184.455643)">Intein</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="344.6784" y="184.455643" transform="rotate(-0 344.6784 184.455643)">C-extein</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="252.2736" y="165.571251" transform="rotate(-0 252.2736 165.571251)">N-extein</text>
+   </g>
+   <g id="text_23">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0b0b0b" x="306.5112" y="165.899646" transform="rotate(-0 306.5112 165.899646)">S</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="87.552" y="252.55516" transform="rotate(-0 87.552 252.55516)">Excised intein</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 7.5px; font-family: 'Times New Roman'; text-anchor: start; fill: #52514e" x="161.8776" y="252.196596" transform="rotate(-0 161.8776 252.196596)">succinimide</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="256.2912" y="252.552699" transform="rotate(-0 256.2912 252.552699)">N-extein</text>
+   </g>
+   <g id="text_27">
+    <text style="font-weight: 700; font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #0b0b0b" x="309.32352" y="252.48019" transform="rotate(-0 309.32352 252.48019)">S</text>
+   </g>
+   <g id="text_28">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="353.718" y="252.552699" transform="rotate(-0 353.718 252.552699)">C-extein</text>
+   </g>
+   <g id="text_29">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="254.2824" y="320.649756" transform="rotate(-0 254.2824 320.649756)">N-extein</text>
+   </g>
+   <g id="text_30">
+    <text style="font-size: 9px; font-family: 'Times New Roman'; text-anchor: middle; fill: #ffffff" x="346.6872" y="320.649756" transform="rotate(-0 346.6872 320.649756)">C-extein</text>
+   </g>
+   <g id="patch_20">
+    <path d="M 196.001973 297.636896 C 230.1674 301.2783 264.3329 304.9196 298.4983 308.5610" style="fill: none; stroke: #52514e; stroke-width: 0.8; stroke-linecap: round"/>
+   </g>
+   <g id="text_31">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; text-anchor: end; fill: #0b0b0b" x="192.0096" y="296.092797" transform="rotate(-0 192.0096 296.092797)">new peptide bond</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p64090c6c1f">
+   <rect x="7.2" y="7.2" width="401.76" height="343.728"/>
+  </clipPath>
+ </defs>
+</svg>

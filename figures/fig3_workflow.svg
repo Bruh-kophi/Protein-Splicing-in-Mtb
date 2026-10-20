@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="416.16pt" height="324.864pt" viewBox="0 0 416.16 324.864" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-16T10:38:32.459092</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 324.864 L 416.16 324.864 L 416.16 0 L 0 0 z" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 97.596 43.4208 L 318.564 43.4208 C 321.2424 43.4208 322.5816 42.1272 322.5816 39.5400 L 322.5816 18.519 C 322.5816 15.9318 321.2424 14.6382 318.5640 14.6382 L 97.596 14.6382 C 94.9176 14.6382 93.5784 15.9318 93.5784 18.5190 L 93.5784 39.54 C 93.5784 42.1272 94.9176 43.4208 97.5960 43.4208 z" clip-path="url(#p4ca3dec3bc)" style="fill: #f4f3ef; stroke: #52514e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 97.596 88.6968 L 318.564 88.6968 C 321.2424 88.6968 322.5816 87.4032 322.5816 84.8160 L 322.5816 63.795 C 322.5816 61.2078 321.2424 59.9142 318.5640 59.9142 L 97.596 59.9142 C 94.9176 59.9142 93.5784 61.2078 93.5784 63.7950 L 93.5784 84.816 C 93.5784 87.4032 94.9176 88.6968 97.5960 88.6968 z" clip-path="url(#p4ca3dec3bc)" style="fill: #f4f3ef; stroke: #52514e; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 208.08 44.775906 C 208.0800 49.3709 208.0800 53.6305 208.0800 57.5547" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 209.88 53.954656 L 208.08 57.554656 L 206.28 53.954656 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 206.114194 88.429774 C 162.7832 96.8009 119.7815 105.1084 77.1091 113.3523" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 80.985147 114.436733 L 77.109074 113.352268 L 80.302289 110.902089 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 13.896 146.9088 L 134.424 146.9088 C 137.1024 146.9088 138.4416 145.6152 138.4416 143.0280 L 138.4416 117.156 C 138.4416 114.5688 137.1024 113.2752 134.4240 113.2752 L 13.896 113.2752 C 11.2176 113.2752 9.8784 114.5688 9.8784 117.1560 L 9.8784 143.028 C 9.8784 145.6152 11.2176 146.9088 13.8960 146.9088 z" clip-path="url(#p4ca3dec3bc)" style="fill: #eef3fb; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 74.16 148.261143 C 74.1600 151.2401 74.1600 153.8837 74.1600 156.1918" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 75.96 152.591841 L 74.16 156.191841 L 72.36 152.591841 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 13.896 195.4188 L 134.424 195.4188 C 137.1024 195.4188 138.4416 194.1252 138.4416 191.5380 L 138.4416 162.432 C 138.4416 159.8448 137.1024 158.5512 134.4240 158.5512 L 13.896 158.5512 C 11.2176 158.5512 9.8784 159.8448 9.8784 162.4320 L 9.8784 191.538 C 9.8784 194.1252 11.2176 195.4188 13.8960 195.4188 z" clip-path="url(#p4ca3dec3bc)" style="fill: #eef3fb; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 74.16 196.772327 C 74.1600 200.2895 74.1600 203.4712 74.1600 206.3176" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 75.96 202.717574 L 74.16 206.317574 L 72.36 202.717574 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 208.08 90.049143 C 208.0800 97.3394 208.0800 104.2943 208.0800 110.9137" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 209.88 107.313737 L 208.08 110.913737 L 206.28 107.313737 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 147.816 146.9088 L 268.344 146.9088 C 271.0224 146.9088 272.3616 145.6152 272.3616 143.0280 L 272.3616 117.156 C 272.3616 114.5688 271.0224 113.2752 268.3440 113.2752 L 147.816 113.2752 C 145.1376 113.2752 143.7984 114.5688 143.7984 117.1560 L 143.7984 143.028 C 143.7984 145.6152 145.1376 146.9088 147.8160 146.9088 z" clip-path="url(#p4ca3dec3bc)" style="fill: #eef3fb; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 208.08 148.261143 C 208.0800 151.2401 208.0800 153.8837 208.0800 156.1918" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 209.88 152.591841 L 208.08 156.191841 L 206.28 152.591841 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 147.816 195.4188 L 268.344 195.4188 C 271.0224 195.4188 272.3616 194.1252 272.3616 191.5380 L 272.3616 162.432 C 272.3616 159.8448 271.0224 158.5512 268.3440 158.5512 L 147.816 158.5512 C 145.1376 158.5512 143.7984 159.8448 143.7984 162.4320 L 143.7984 191.538 C 143.7984 194.1252 145.1376 195.4188 147.8160 195.4188 z" clip-path="url(#p4ca3dec3bc)" style="fill: #eef3fb; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 208.08 196.772327 C 208.0800 200.2895 208.0800 203.4712 208.0800 206.3176" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 209.88 202.717574 L 208.08 206.317574 L 206.28 202.717574 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 210.045806 88.429774 C 253.3768 96.8009 296.3785 105.1084 339.0509 113.3523" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 335.857711 110.902089 L 339.050926 113.352268 L 335.174853 114.436733 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 281.736 146.9088 L 402.264 146.9088 C 404.9424 146.9088 406.2816 145.6152 406.2816 143.0280 L 406.2816 117.156 C 406.2816 114.5688 404.9424 113.2752 402.2640 113.2752 L 281.736 113.2752 C 279.0576 113.2752 277.7184 114.5688 277.7184 117.1560 L 277.7184 143.028 C 277.7184 145.6152 279.0576 146.9088 281.7360 146.9088 z" clip-path="url(#p4ca3dec3bc)" style="fill: #eef3fb; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 342 148.261143 C 342.0000 151.2401 342.0000 153.8837 342.0000 156.1918" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 343.8 152.591841 L 342 156.191841 L 340.2 152.591841 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 281.736 195.4188 L 402.264 195.4188 C 404.9424 195.4188 406.2816 194.1252 406.2816 191.5380 L 406.2816 162.432 C 406.2816 159.8448 404.9424 158.5512 402.2640 158.5512 L 281.736 158.5512 C 279.0576 158.5512 277.7184 159.8448 277.7184 162.4320 L 277.7184 191.538 C 277.7184 194.1252 279.0576 195.4188 281.7360 195.4188 z" clip-path="url(#p4ca3dec3bc)" style="fill: #eef3fb; stroke: #2a78d6; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 342 196.772327 C 342.0000 200.2895 342.0000 203.4712 342.0000 206.3176" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 343.8 202.717574 L 342 206.317574 L 340.2 202.717574 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_20">
+    <path d="M 13.896 252.0138 L 402.264 252.0138 C 404.9424 252.0138 406.2816 250.7202 406.2816 248.1330 L 406.2816 212.559 C 406.2816 209.9718 404.9424 208.6782 402.2640 208.6782 L 13.896 208.6782 C 11.2176 208.6782 9.8784 209.9718 9.8784 212.5590 L 9.8784 248.133 C 9.8784 250.7202 11.2176 252.0138 13.8960 252.0138 z" clip-path="url(#p4ca3dec3bc)" style="fill: #fdf0ea; stroke: #eb6834; stroke-linejoin: miter"/>
+   </g>
+   <g id="patch_21">
+    <path d="M 208.08 253.367327 C 208.0800 256.8845 208.0800 260.0662 208.0800 262.9126" clip-path="url(#p4ca3dec3bc)" style="fill: none; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+    <path d="M 209.88 259.312574 L 208.08 262.912574 L 206.28 259.312574 z" clip-path="url(#p4ca3dec3bc)" style="fill: #52514e; stroke: #52514e; stroke-width: 0.9; stroke-linecap: round"/>
+   </g>
+   <g id="patch_22">
+    <path d="M 13.896 310.2258 L 402.264 310.2258 C 404.9424 310.2258 406.2816 308.9322 406.2816 306.3450 L 406.2816 269.154 C 406.2816 266.5668 404.9424 265.2732 402.2640 265.2732 L 13.896 265.2732 C 11.2176 265.2732 9.8784 266.5668 9.8784 269.1540 L 9.8784 306.345 C 9.8784 308.9322 11.2176 310.2258 13.8960 310.2258 z" clip-path="url(#p4ca3dec3bc)" style="fill: #eaf7f1; stroke: #1baf7a; stroke-linejoin: miter"/>
+   </g>
+   <g id="text_1">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(124.099375 26.266141)">H37Rv reference proteome (UniProt UP000001584)</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(130.984375 35.958484)">and intein coordinates of RecA, SufB and DnaB</text>
+   </g>
+   <g id="text_2">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(128.430625 71.530891)">In silico digestion of precursor and spliced forms:</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(120.881875 80.945734)">diagnostic peptide types 1–4 and expected intein share</text>
+   </g>
+   <g id="text_3">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(42.610625 122.422156)">Dataset 1: Progenio</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(23.90875 132.137)">SAWC507 / SAWC5527, DDA</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(22.839375 141.333094)">MaxQuant protein-group export</text>
+   </g>
+   <g id="text_4">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(48.728125 169.453281)">repaired export;</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(21.036875 178.8975)">targeted panel, cleavage-agnostic</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(34.84 188.364219)">and split-match searches</text>
+   </g>
+   <g id="text_5">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(170.971875 127.967391)">Dataset 2: PXD009315</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(165.64375 136.819734)">Q Exactive, DDA, 16 runs</text>
+   </g>
+   <g id="text_6">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(162.054375 169.442031)">MS-GF+ semi-tryptic search</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(170.310625 178.90875)">with spliced sequences;</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(164.975625 188.364219)">Casanovo de novo (2 runs)</text>
+   </g>
+   <g id="text_7">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(291.118125 127.328641)">Dataset 3: rifampicin vs DMSO</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(285.975625 136.980359)">timsTOF Pro 2, diaPASEF, 10 runs</text>
+   </g>
+   <g id="text_8">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(298.8725 169.442031)">diaTracer, then MSFragger</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(303.345 178.8975)">semi-tryptic search with</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(297.123125 188.364219)">spliced sequences; DIA-NN</text>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(65.890625 222.843656)">Intein analysis, the same for every dataset: peptides by region on RecA, SufB and DnaB;</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(60.003125 232.2585)">diagnostic types 1–4; non-tryptic termini against background; junction matches at any score;</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(116.1025 241.725219)">depletion test (exact binomial) with pseudo-intein control</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(101.99625 280.247156)">Evidence standard: fragment ions bracketing the bond in question.</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(70.66875 289.702625)">Dataset 3 also: DIA-NN q-values and retention time, decoys of identical composition,</text>
+    <text style="font-size: 8px; font-family: 'Times New Roman'; fill: #0b0b0b" transform="translate(54.008125 299.169344)">junction-to-extein ratio, rifampicin vs DMSO. Datasets compared as patterns, never as numbers.</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p4ca3dec3bc">
+   <rect x="7.2" y="7.2" width="401.76" height="310.464"/>
+  </clipPath>
+ </defs>
+</svg>
