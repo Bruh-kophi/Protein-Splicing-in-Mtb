@@ -4,7 +4,7 @@ Evidence of Protein splicing in M.tb
 
 Analysis code for the BMedSc (Honours) thesis *"Investigating Protein Splicing in
 Mycobacterium tuberculosis Using Proteomics Data"*
-(Alphonse "Kophi" Hounkpe, Computational Biology Division, University of Cape Town, 2026).
+(Alphonse Hounkpe, Computational Biology Division, University of Cape Town, 2026).
 
 **Contents:** the scripts used to look for evidence that the three *M. tuberculosis*
 inteins (in **RecA**, **SufB** and **DnaB**) are cut out of their host proteins
@@ -208,9 +208,6 @@ accessions, named `SYNTHETIC_*`, never mixed with real data.
 
 - `tagmatch.py` and the split-anchoring approach in `intein_search.py` come
   from the *proteomics-pipelines* code base (frameshift peptide detection).
-  **[TODO] Confirm the author (likely Dr Thys Potgieter) and the licence
-  before publishing.** If no licence permits redistribution, keep the
-  repository private, or replace the file with instructions for obtaining it.
 - Choose a licence for the new code (for example MIT) and add a `LICENSE` file.
 - Cite FragPipe, MSFragger, diaTracer, DIA-NN, MS-GF+ and Casanovo as listed
   in the thesis references.
@@ -219,7 +216,7 @@ accessions, named `SYNTHETIC_*`, never mixed with real data.
 
 Hounkpe, A. (2026). *Investigating protein splicing in Mycobacterium
 tuberculosis using proteomics data* [BMedSc (Hons) thesis].
-University of Cape Town. Code: this repository [add DOI after Zenodo archiving].
+University of Cape Town.
 
 ---
 
